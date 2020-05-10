@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+}
+header{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(82, 66, 63);
+}
+header nav{
+    text-align: center;
+    font-family: cursive;
+    color: cornsilk;
+    padding: 25px;
+}
+body{
+    
+    background-color: rgb(138, 125, 125);
+}
+.assign{
+    padding: 20px;  
+    margin: 10px;
+    
+}
+button{
+    width: 200px;
+    height: 45px;
+    /* font-family: cursive; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(88, 70, 88);
+    color: cornsilk;
+    border: rgb(138, 133, 138);
+}
+/* .box{
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 150px;
+    height: 400px;
+    width: 400px;
+    text-align: justify;
+    border: 2px solid ;
+    background-color: rgb(202, 177, 202);
+    
+
+} */
